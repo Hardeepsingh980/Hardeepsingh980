@@ -1,16 +1,48 @@
-### Hi there 👋
+### Hey 👋, I'm Hardeep Singh
 
-<!--
-**Hardeepsingh980/Hardeepsingh980** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/hardeep-singh-96573b173/">
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/har_deep_sin_gh/">
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100008478370645">
+  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there, I'm **Hardeep Singh**, a **Software Engineering student** 🚀 from Punjab, India, currently, I'm a Web and Mobile app intern 👨🏽‍💻, and a Freelancer 👨🏽‍💼. 
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently Full Stack Developer at Teenager Startups working on thier public media site [Teenager Startups](http://www.teenagerstartups.com/) and social platform app [Teenivo](https://teenivo.com/) ;
+- 🌱 I’m currently learning Machine Learning; 
+- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Automation, etc..;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via hardeep0khalsa122@gmail.com to reach me.
+- 📝 See my [Website](http://hardeepsingh.herokuapp.com/).
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/6617/2328/thumbnail.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![Hardeep's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hardeepsingh980&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+⭐️ From [Hardeep Singh](https://github.com/hardeepsingh980)
