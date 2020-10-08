@@ -1,5 +1,7 @@
 ### Hey 👋, I'm Hardeep Singh
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=hardeepsingh980.hardeepsingh980)](https://visitor-badge.glitch.me/badge?page_id=hardeepsingh980.hardeepsingh980)&emsp;![GitHub followers](https://img.shields.io/github/followers/hardeepsingh980?style=social)
+
 <a href="https://www.linkedin.com/in/hardeep-singh-96573b173/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
