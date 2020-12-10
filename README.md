@@ -3,13 +3,13 @@
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=hardeepsingh980.hardeepsingh980)](https://visitor-badge.glitch.me/badge?page_id=hardeepsingh980.hardeepsingh980)&emsp;![GitHub followers](https://img.shields.io/github/followers/hardeepsingh980?style=social)
 
 <a href="https://www.linkedin.com/in/hardeep-singh-96573b173/">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Hardeep's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/har_deep_sin_gh/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Hardeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100008478370645">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Hardeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />
@@ -45,6 +45,6 @@ Hi there, I'm **Hardeep Singh**, a **Software Engineering student** 🚀 from Pu
 <code><img height="20" src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Hardeep's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hardeepsingh980&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Hardeep's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hardeepsingh980&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)
 
 ⭐️ From [Hardeep Singh](https://github.com/hardeepsingh980)
