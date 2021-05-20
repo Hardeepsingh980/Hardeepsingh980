@@ -25,7 +25,7 @@ Hi there, I'm **Hardeep Singh**, a **Software Engineering student** 🚀 from Pu
 - 🌱 I’m currently learning Machine Learning; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Automation, etc..;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via hardeep0khalsa122@gmail.com to reach me.
+- 📫 Please email at hardeep0khalsa122@gmail.com to reach me.
 - 📝 See my [Website](https://hardeepsingh.herokuapp.com/).
 
 
