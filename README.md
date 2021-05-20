@@ -21,7 +21,7 @@ Hi there, I'm **Hardeep Singh**, a **Software Engineering student** 🚀 from Pu
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently Python Developer at Tekki Web Solutions working on thier multiple client projects. I previously worked for Teenager Startups where I worked on their public site [Teenager Startups](http://www.teenagerstartups.com/) and social platform app [Teenivo](https://teenivo.com/) ;
+- 👨🏽‍💻 I’m currently Python Developer at [Tekki Web Solutions](https://tekkiwebsolutions.com/) working on thier multiple client projects. I previously worked for Teenager Startups where I worked on their public site [Teenager Startups](http://www.teenagerstartups.com/) and social platform app [Teenivo](https://teenivo.com/) ;
 - 🌱 I’m currently learning Machine Learning; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Automation, etc..;
 - 💬 Ask me about anything, I am happy to help;
