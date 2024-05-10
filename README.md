@@ -35,7 +35,7 @@ I'm **Hardeep Singh**, a passionate **Full-stack Developer** from Punjab, India.
 <code><img height="20" src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Hardeep's GitHub stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=hardeepsingh980&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)
+[![Hardeep-io's GitHub | Stats](https://stats.quine.sh/Hardeep-io/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hardeep-io)
 
 ⭐️ From [Hardeep Singh](https://github.com/hardeepsingh980)
 
