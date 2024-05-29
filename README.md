@@ -1,4 +1,3 @@
-
 ---
 
 ### Hi there, I'm Hardeep Singh 👋
@@ -35,7 +34,16 @@ I'm **Hardeep Singh**, a passionate **Full-stack Developer** from Punjab, India.
 <code><img height="20" src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+
 [![Hardeep-io's GitHub | Stats](https://stats.quine.sh/Hardeep-io/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hardeep-io)
+
+**Badges Earned:**
+
+<code><img height="100" src="https://quine.sh/images/badges/ai-bloks-silver.svg"></code>
+<code><img height="100" src="https://quine.sh/images/badges/rag.svg"></code>
+<code><img height="100" src="https://github.githubassets.com/assets/starstruck-default--light-medium-65b31ef2251e.png"></code>
+<code><img height="100" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"></code>
+
 
 ⭐️ From [Hardeep Singh](https://github.com/hardeepsingh980)
 
