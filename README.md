@@ -12,7 +12,7 @@ I'm **Hardeep Singh**, a passionate **Full-stack Developer** from Punjab, India.
 
 **About Me:**
 
-- 👨🏽‍💻 Currently working as a Full Stack Developer at [Cerebrone.ai](https://cerebrone.ai/).
+- 👨🏽‍💻 Currently working as a Engineering Manager at [Cheerio AI](https://cheerio.in/).
 - 🌱 Exploring LLMs, with a keen interest in DevOps and Blockchain.
 - 💬 Happy to discuss web and mobile development, feel free to ask me anything.
 - 📫 Reach me via email: hardeep0khalsa122@gmail.com.
