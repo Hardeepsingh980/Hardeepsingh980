@@ -1,50 +1,22 @@
----
+# Hardeep Singh
 
-### Hi there, I'm Hardeep Singh 👋
+I build AI products end to end and put them in front of people.
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=hardeepsingh980.hardeepsingh980)&emsp;
-![GitHub followers](https://img.shields.io/github/followers/hardeepsingh980?style=social)
+Engineering Manager at [Cheerio AI](https://cheerio.in), where I lead the team and build the voice and agent products. Outside work I build voice agents in Punjabi and Hindi, train speech models, and ship hackathon projects that keep running after the hackathon.
 
+**Now**
 
-I'm **Hardeep Singh**, a passionate **Full-stack Developer** from Punjab, India.
+- Voice agents that talk on the phone, on a kiosk and in meetings
+- AI coworkers that plug into a company's tools and do real work
+- Speech models for Punjabi and other under-served languages
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+**Some things I made**
 
-**About Me:**
+- [Living Textbook](https://github.com/Hardeepsingh980/living-textbook): a school book page that comes alive on the paper
+- [Gossip Engine](https://github.com/Hardeepsingh980/gossip-engine): game characters that remember what you did
+- [Satluja](https://github.com/Hardeepsingh980/ai-kiosk-csc): an AI receptionist on a Raspberry Pi
+- [MergeMate](https://github.com/Hardeepsingh980/mergemate): an AI bot that reviews pull requests
 
-- 👨🏽‍💻 Currently working as a Engineering Manager at [Cheerio AI](https://cheerio.in/).
-- 🌱 Exploring LLMs, with a keen interest in DevOps and Blockchain.
-- 💬 Happy to discuss web and mobile development, feel free to ask me anything.
-- 📫 Reach me via email: hardeep0khalsa122@gmail.com.
-- 📝 Visit my [website](https://hardeepio.web.app/) for more information.
+**Elsewhere**
 
-**Languages and Tools:**
-
-<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://discoversdkcdn.azureedge.net/runtimecontent/companyfiles/6617/2328/thumbnail.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-[![Hardeep-io's GitHub | Stats](https://stats.quine.sh/Hardeep-io/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Hardeep-io)
-
-**Badges Earned:**
-
-<code><img height="100" src="https://quine.sh/images/badges/ai-bloks-silver.svg"></code>
-<code><img height="100" src="https://quine.sh/images/badges/rag.svg"></code>
-<code><img height="100" src="https://github.githubassets.com/assets/starstruck-default--light-medium-65b31ef2251e.png"></code>
-<code><img height="100" src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"></code>
-
-
-⭐️ From [Hardeep Singh](https://github.com/hardeepsingh980)
-
----
+[hardeepio.web.app](https://hardeepio.web.app) · [LinkedIn](https://www.linkedin.com/in/hardeepio) · [YouTube](https://www.youtube.com/@hardeep_io) · [Email](mailto:hardeep0khalsa122@gmail.com)
